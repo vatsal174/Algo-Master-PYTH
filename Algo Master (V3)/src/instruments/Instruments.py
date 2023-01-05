@@ -11,7 +11,7 @@ import json
 
 from config.Config import getServerConfig, getTimestampsData, saveTimestampsData
 from core.Controller import Controller
-from utils.Utils import Utils
+from utils.utils import Utils
 
 class Instruments:
   instrumentsList = None
